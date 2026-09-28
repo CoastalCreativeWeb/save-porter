@@ -1,0 +1,16 @@
+# build output
+build/
+dist/
+*.spec
+__pycache__/
+
+# the exe and release zip go on the Releases page, not in the repo
+*.exe
+*.zip
+
+# per-user files the app creates
+devices.json
+ledger.json
+
+# adb binaries (download platform-tools yourself, see README)
+platform-tools/
