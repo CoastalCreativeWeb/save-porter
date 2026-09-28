@@ -2,7 +2,7 @@
 
 Move emulator saves between your PC, your handheld and your phone. Plug stuff in, pick two devices, click an arrow.
 
-![Save Porter](docs/screenshot.png)
+![Save Porter syncing a RetroBat PC with an R36S](docs/screenshot.png)
 
 ## Download
 
@@ -36,6 +36,8 @@ PS1 memory cards convert between DuckStation (`.mcd`) and RetroArch (`.srm`) aut
 Some things can't move between some devices (a PS3 save has nowhere to go on an R36S). Those show up greyed out at the bottom.
 
 ## Connecting a phone
+
+![Save Porter with an Android phone](docs/phone.png)
 
 Hit **Connect phone** in the app for the full walkthrough. Three ways in:
 
